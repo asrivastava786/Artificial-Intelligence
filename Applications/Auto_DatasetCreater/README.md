@@ -8,7 +8,7 @@ A character-level RNN reads words as a series of characters - outputting a predi
 * It's just supporting application we use differents other inputs and models as well to get validate outputs. 
 
 ## Task: 
-Know your customer
+Create Dataset from email sender name(customer).
 
 ## Input:
 Inbox Email Sender Name (String)
