@@ -4,4 +4,4 @@ We are using NB to create decision line between color dots.
 
 ## output
 
-![Screenshot](screenshot.png)
+![Screenshot](test.png)
