@@ -1,6 +1,6 @@
 # Naive Bayes Decision line
 
-We are using NB to create decision line between color dots.
+We are using NB to create decision line between speed dots.
 
 ## output
 
