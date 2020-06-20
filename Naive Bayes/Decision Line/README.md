@@ -1,6 +1,6 @@
 # Naive Bayes Decision line
-
-We are using NB to create decision line between speed dots.
+This usecase we have created random data grade and bumpiness for slow and fast speed.
+We are using NB to create decision line between slow and fast dots.
 
 ## output
 
