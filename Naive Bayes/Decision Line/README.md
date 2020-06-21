@@ -5,3 +5,5 @@ We are using NB to create decision line between slow and fast dots.
 ## output
 
 ![Screenshot](test.png)
+
+Problem is taken from Udacity course.
