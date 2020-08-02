@@ -8,4 +8,4 @@
 ## Streamlit’s open-source app framework is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours!
 ## Our web application will allows users to choose what classification algorithm they want to use and let them interactively set hyper-parameter values, all without them knowing to code!
 
-*Application from coursera guided project
+*From coursera guided project
